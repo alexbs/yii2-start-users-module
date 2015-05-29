@@ -89,9 +89,7 @@ $gridConfig = [
                     'options' => [
                         'class' => 'form-control'
                     ],
-                    'clientOptions' => [
-                        'dateFormat' => 'dd.mm.yy',
-                    ]
+                    'dateFormat' => 'dd.mm.yy',
                 ]
             )
         ],
@@ -105,9 +103,7 @@ $gridConfig = [
                     'options' => [
                         'class' => 'form-control'
                     ],
-                    'clientOptions' => [
-                        'dateFormat' => 'dd.mm.yy',
-                    ]
+                    'dateFormat' => 'dd.mm.yy',
                 ]
             )
         ]
